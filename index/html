@@ -104,8 +104,8 @@
 						<div class="header-text">
 							<h2>Salut <span>,</span> je suis <br> esteban <br> baranger <span>.</span>   </h2>
 							<p>Alternant dans l'entreprise Kanopymed et étudiant a l'IUT de Montpellier en Techniques de commercialisation </p>
-							<a href="cv" download>Enregistrer le CV</a>
-							<a href="LM" download>Lettre de motivation</a>
+							<a href="document/cv.pdf" download>Enregistrer le CV</a>
+							<a href="document/LM.pdf" download>Lettre de motivation</a>
 						</div><!--/.header-text-->
 					</div><!--/.col-->
 				</div><!-- /.row-->
@@ -632,7 +632,7 @@ des particuliers
 
 								<div class="col-sm-4">
 									<div class="item">
-										<img src="C:\Users\esteb\Documents\IUT TC2\S3\Informatique\SITE ESTEBAN BARANGER\site este\1 port.jpeg" alt="1 port.jpeg"/>
+										<img src="images\1 port.jpeg" alt="1 port.jpeg"/>
 										<div class="isotope-overlay">
 											<a href="#">
 												création site WEB
@@ -640,7 +640,7 @@ des particuliers
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
 									<div class="item">
-									<img src="C:\Users\esteb\Documents\IUT TC2\S3\Informatique\SITE ESTEBAN BARANGER\site este\4 port.jpeg" alt="4 port.jpeg"/>
+									<img src="images\4 port.jpeg" alt="4 port.jpeg"/>
 										<div class="isotope-overlay">
 											<a href="#">
 												Création d'un événement et d'une association 
@@ -651,7 +651,7 @@ des particuliers
 
 								<div class="col-sm-4">
 									<div class="item">
-										<img src="C:\Users\esteb\Documents\IUT TC2\S3\Informatique\SITE ESTEBAN BARANGER\site este\Affiche HIBEERNO .png" alt="Affiche HIBEERNO .png"/>
+										<img src="images\Affiche HIBEERNO .png" alt="Affiche HIBEERNO .png"/>
 										<div class="isotope-overlay">
 											<a href="#">
 												Affiche de la création de notre bière HIBEERNO
@@ -662,7 +662,7 @@ des particuliers
 
 								<div class="col-sm-4">
 									<div class="item">
-											<img src="C:\Users\esteb\Documents\IUT TC2\S3\Informatique\SITE ESTEBAN BARANGER\site este\2 port.jpeg" alt="2 port.jpeg"/>
+											<img src="images\2 port.jpeg" alt="2 port.jpeg"/>
 										<div class="isotope-overlay">
 											<a href="#">
 												Projet Tutoré avec Envol et Matrescence
@@ -670,7 +670,7 @@ des particuliers
 										</div><!-- /.isotope-overlay -->
 									</div><!-- /.item -->
 									<div class="item">
-										<img src="C:\Users\esteb\Documents\IUT TC2\S3\Informatique\SITE ESTEBAN BARANGER\site este\Affiche food anglais.png" alt="Affiche food anglais.png"/>
+										<img src="images\Affiche food anglais.png" alt="Affiche food anglais.png"/>
 										<div class="isotope-overlay">
 											<a href="#">
 												Création d'une affiche en Anglais 
@@ -697,27 +697,27 @@ des particuliers
 					<div class="owl-carousel owl-theme" id="client">
 						<div class="item">
 							<a href="#">
-								<img src="C:\Users\esteb\Documents\IUT TC2\S3\Informatique\SITE ESTEBAN BARANGER\site este\OIP.jpg" alt="OIP.jpg" />
+								<img src="images\OIP.jpg" alt="OIP.jpg" />
 							</a>
 						</div><!--/.item-->
 						<div class="item">
 							<a href="#">
-								<img src="C:\Users\esteb\Documents\IUT TC2\S3\Informatique\SITE ESTEBAN BARANGER\site este\OIP (1).jpg" alt="OIP (1).jpg" />
+								<img src="C:\Users\esteb\Documents\IUT TC2\S3\Informatique\SITE ESTEBAN BARANGER\site este\1 port.jpeg"" alt="OIP (1).jpg" />
 							</a>
 						</div><!--/.item-->
 						<div class="item">
 							<a href="#">
-								<img src="C:\Users\esteb\Documents\IUT TC2\S3\Informatique\SITE ESTEBAN BARANGER\site este\OIP (2).jpg" alt="OIP (2).jpg" />
+								<img src="images\OIP (2).jpg" alt="OIP (2).jpg" />
 							</a>
 						</div><!--/.item-->
 						<div class="item">
 							<a href="#">
-								<img src="C:\Users\esteb\Documents\IUT TC2\S3\Informatique\SITE ESTEBAN BARANGER\site este\OIP (3).jpg" alt="OIP (3).jpg" />
+								<img src="images\OIP (3).jpg" alt="OIP (3).jpg" />
 							</a>
 						</div><!--/.item-->
 						<div class="item">
 							<a href="#">
-								<img src="C:\Users\esteb\Documents\IUT TC2\S3\Informatique\SITE ESTEBAN BARANGER\site este\Capture d’écran_20-11-2024_171037_www.facebook.com.jpeg" alt="Capture d’écran_20-11-2024_171037_www.facebook.com.jpeg" />
+								<img src="images\Capture d’écran_20-11-2024_171037_www.facebook.com.jpeg" alt="Capture d’écran_20-11-2024_171037_www.facebook.com.jpeg" />
 						</div><!--/.item-->
 					</div><!--/.owl-carousel-->
 				</div><!--/.container-->
